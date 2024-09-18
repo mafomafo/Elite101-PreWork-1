@@ -3,7 +3,7 @@
 This repository contains my pre-work project for the Elite 101 Course at Code2College.<br/>
 The pre-work is a python chatbot.<br/>
 This is a line that was added from Repl.it.<br/>
-This is a line from CodeSandbox.io.
+This is a line from CodeSandbox.io that was added.
 
 ## This section is added to the new branch
 
